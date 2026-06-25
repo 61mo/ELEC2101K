@@ -9,8 +9,8 @@
 ## 授课教师
 
 <!-- TOML-LECTURERS: part="items" -->
-- **南海云 NAM HAEWOON （韩）**
-  <!-- TOML-ITEM: id="review-教师A-1" -->
+- 南海云 NAM HAEWOON （韩）
+  <!-- TOML-ITEM: id="review-南海云 NAM HAEWOON （韩）-1" -->
   - [教师个人主页](http://icsl.hanyang.ac.kr/~hnam/)
   - 如果希望与教师邮箱联系，请确保标题以 **HITSZ** 开头。
     > 文 / [awaw_a](https://github.com/awaw-a)，2026-06
@@ -26,6 +26,7 @@
   - 随堂测试，26年为手写试卷，包含选择题与编程题。
 - 期末考试: 50%    
   - 未知。
+
 > 文 / [awaw_a](https://github.com/awaw-a)，2026-06
 
 ## 学习资料
